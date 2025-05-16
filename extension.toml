@@ -1,6 +1,6 @@
 id = "vscode-dark-polished"
 name = "VSCode Dark Polished"
-version = "0.0.6"
+version = "0.0.7"
 schema_version = 1
 authors = ["yayashn <yks@dr.com>"]
 description = "Polished and comprehensive VSCode Dark Modern theme for Zed."

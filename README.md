@@ -1,3 +1,3 @@
 # VSCode Dark Polished Theme
 
-Polished and comprehensive VSCode Dark Modern theme for Zed.
+Polished and comprehensive VSCode Dark Modern theme for Zed!

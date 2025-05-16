@@ -1,0 +1,7 @@
+id = "vscode-dark-polished"
+name = "VSCode Dark Polished"
+version = "0.0.5"
+schema_version = 1
+authors = ["yayashn <yks@dr.com>"]
+description = "Polished and comprehensive VSCode Dark Modern theme for Zed."
+repository = "https://github.com/yayashn/vscode-dark-polished"
